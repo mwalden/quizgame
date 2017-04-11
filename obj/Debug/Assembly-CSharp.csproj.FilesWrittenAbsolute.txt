@@ -1,0 +1,17 @@
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/mwalden/Downloads/answers/obj/Debug/Assembly-CSharp.dll
+/Users/mwalden/Downloads/answers/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/UnityEngine.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/UnityEditor.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mwalden/Downloads/answers/Temp/bin/Debug/Mono.Cecil.Mdb.dll
